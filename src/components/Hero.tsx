@@ -16,7 +16,7 @@ export default function Hero() {
                 </h1>
                 <div className="flex flex-col gap-6 font-mono text-sm leading-loose text-text">
                     <p className="font-mono text-lg leading-relaxed text-text  mb-5">
-                            I am currently building and learning @ Arizona State University majoring in Software Engineering. I have interest in Distributed Systems,
+                            I am currently building and learning @ Arizona State University, while earning a Bachelors of Science in Software Engineering. I have interests in Distributed Systems,
                         Infrastructure, Architecture and AI. </p>
                     <p className="font-mono text-lg leading-relaxed text-text mb-10">   I will also complete a Masters Degree in Computer Science, and long term, I plan to complete my PhD in Philosophy.
                         When I am not on my computer, I enjoy reading books, exercising, watching CS2, meeting new people, and learning new things!
