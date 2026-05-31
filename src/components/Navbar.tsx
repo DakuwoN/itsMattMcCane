@@ -17,6 +17,7 @@ export default function Navbar() {
                     />
                 </Link>
                 <ul className="flex gap-8 list-none">
+                    <li><Link href="/" className="font-mono text-l tracking-widest uppercase text-muted hover:text-accent transition-colors duration-200">home</Link></li>
                     <li><Link href="/#work" className="font-mono text-l tracking-widest uppercase text-muted hover:text-accent transition-colors duration-200">work</Link></li>
                     <li><Link href="/resume" className="font-mono text-l tracking-widest uppercase text-muted hover:text-accent transition-colors duration-200">resume</Link></li>
                 </ul>
