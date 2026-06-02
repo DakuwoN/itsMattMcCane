@@ -77,6 +77,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Einstein</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Walter Isaacson</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -99,6 +100,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Source Code</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Bill Gates</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -120,6 +122,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">The Coming Wave</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Mustafa Suleyman</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -141,6 +144,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Why We Sleep</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Matthew Walker, PhD</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -160,6 +164,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">dopamine nation</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Anna Lembke, MD</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -181,6 +186,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Monster</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Sanyika Shakur aka Kody Scott</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -204,6 +210,7 @@ export default function Books() {
 
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">the Innovators, how a group of hackers, geniuses,
                         and geeks created the digital revolution
                     </h3>
@@ -227,6 +234,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Negative Self-Talk & How to Change It</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Shad Helmstetter, PhD</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -250,6 +258,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Atomic Habits</h3>
                     <p className="font-mono text-xs text-muted mb-4">by James Clear </p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -269,6 +278,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Prepared</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Diane Tavenner</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -289,6 +299,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Can't Hurt Me</h3>
                     <p className="font-mono text-xs text-muted mb-4">by David Goggins</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -311,6 +322,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Educated</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Tara Westover</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -331,6 +343,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">Idea Man</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Paul Allen</p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
@@ -354,6 +367,7 @@ export default function Books() {
                 </div>
 
                 <article className="py-2">
+                    <span className="text-muted text-2xl block mb-3" style={{ color: '#000000' }}>◆</span>
                     <h3 className="font-serif text-2xl text-text mb-1">No Easy Day</h3>
                     <p className="font-mono text-xs text-muted mb-4">by Mark Owen and Kevin Maurer </p>
                     <details className="font-mono text-sm text-muted leading-relaxed cursor-pointer">
