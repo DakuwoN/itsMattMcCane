@@ -18,7 +18,7 @@ export default function Hero() {
                     <p className="font-mono text-lg leading-relaxed text-text  mb-5">
                             I am currently studying and building my skills @ Arizona State University, pursuing a Bachelors of Science in Software Engineering. My interests lie in Distributed Systems,
                         Infrastructure, Architecture and AI. </p>
-                    <p className="font-mono text-lg leading-relaxed text-text mb-10">   I plan to complete a Master's Degree in Computer Science and, in the long term, aim to earn a PhD in Philosophy.
+                    <p className="font-mono text-lg leading-relaxed text-text mb-10">I plan to complete a Master's Degree in Computer Science and, in the long term, aim to earn a PhD in Philosophy.
                         Outside of my academic pursuits, I enjoy reading, exercising, watching CS2, meeting new people, and learning new things!
                     </p>
                 </div>
@@ -30,7 +30,7 @@ export default function Hero() {
             </div>
 
             {/*Right side content - Social links*/}
-            <div className="flex flex-col gap-6 pt-2">
+            <div className="hidden md:flex flex-col gap-6 pt-2">
                 <Link href="https://github.com/DakuwoN" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 font-mono text-sm text-muted">
                     <GitBranch size={28}/>GitHub
                 </Link>

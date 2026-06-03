@@ -4,8 +4,8 @@ import WorkCards from "@/components/WorkCards";
 // Entry point to project
 export default function Home() {
     return (
-        // FIXME: will need to adjust for responsive design
-        <main className="px-80">
+
+        <main className="px-6 md:px-24 lg:px-80">
             <Hero />
             <WorkCards />
         </main>

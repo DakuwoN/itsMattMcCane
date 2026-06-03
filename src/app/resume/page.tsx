@@ -2,7 +2,7 @@
 export default function Resume() {
     return (
         <>
-            <main className="px-80 py-24">
+            <main className="px-6 md:px-24 lg:px-80 py-24">
                 <h1 className="font-serif text-4xl mb-4">Matthew McCane</h1>
                 <p className="font-mono text-sm mb-8 text-muted">
                     Download or view my resume here!

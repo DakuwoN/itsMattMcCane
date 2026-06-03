@@ -9,14 +9,14 @@ export default function WorkCards() {
     return (
         <section id="work" className="py-24">
             <p className="font-momo text-xs tracking-widest uppercase text-muted mb-8">Selected Work</p>
-            <div className="grid grid-cols-3 gap-4">
+            <div className="grid grid-cols-1 xl:grid-cols-3 gap-4">
                 <article className="border border-border rounded-xl h-full overflow-hidden flex flex-col hover:-translate-y-4 hover:shadow-lg transition-all duration-300 cursor-pointer">
 
                     {/*Image*/}
                     <div className="w-full h-60 relative">
                         <Image
                             src="/axasu.jpeg"
-                            alt="ASU Apple Club"
+                            alt="Apple x ASU"
                             fill
                             className="object-cover object-center"
                             sizes="(mas-width: 768px) 100vw, 33vw"
@@ -25,7 +25,7 @@ export default function WorkCards() {
 
                     {/*Project title, link and description*/}
                     <div className="flex flex-col gap-3 px-8 py-6">
-                        <h2 className="font-serif text-xl text-text">
+                        <h2 className="font-serif text-lg xl:text-xl text-text">
                             Apple @ Arizona State University
                         </h2>
                         <p className="font-mono text-xs leading-relaxed text-muted flex-1">

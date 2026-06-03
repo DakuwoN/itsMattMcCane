@@ -2,7 +2,7 @@
 
 export default function Books() {
     return (
-        <main className="px-80 py-24">
+        <main className="px-6 md:px-24 lg:px-80 py-24">
 
             <h1 className="font-serif text-5xl mb-16">Books</h1>
 
